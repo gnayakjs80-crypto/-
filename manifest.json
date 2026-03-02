@@ -1,0 +1,15 @@
+{
+  "name": "지리는 흐른다",
+  "short_name": "한국지리",
+  "description": "한반도 249개 시군을 탐험하는 한국지리 학습 앱",
+  "start_url": "./geography-flow2.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a0a00",
+  "theme_color": "#c8942a",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
